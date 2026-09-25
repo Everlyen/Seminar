@@ -25,14 +25,14 @@
             "id": "3f4ca72bb0604512",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "tada too.md",
-                "mode": "source",
-                "source": false
+                "aFile": "tada too.md",
+                "bFile": "tada too.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "tada too"
+              "icon": "diff",
+              "title": "Diff: tada too  (Working Tree)"
             }
           }
         ],
@@ -214,9 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f4ca72bb0604512",
+  "active": "43c9129b7a6aa0df",
   "lastOpenFiles": [
-    "Landing page.md",
-    "tada too.md"
+    "tada too.md",
+    "Landing page.md"
   ]
 }
