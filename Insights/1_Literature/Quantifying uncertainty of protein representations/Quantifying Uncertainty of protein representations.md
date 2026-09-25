@@ -12,6 +12,7 @@ architecture_params:
 ---
 #### Synopsis
 
+Something something RNS metric
 
 ## Concepts
 

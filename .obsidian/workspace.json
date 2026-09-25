@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landing page.md",
+                "file": "tada too.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Landing page"
+              "title": "tada too"
+            }
+          },
+          {
+            "id": "589bfdc7332e0517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quantifying Uncertainty of protein representations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 476.5
   },
   "right": {
     "id": "eacdea3a5c7f6913",
@@ -199,44 +214,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cecb59c179dd0400",
+  "active": "589bfdc7332e0517",
   "lastOpenFiles": [
-    "Insights/4_Protein web/40 Reactome - pathway/Reactome 2 - Cytokine Signaling in Immune system.md",
-    "Insights/4_Protein web/40 Reactome - pathway/0 Reactome.md",
-    "Insights/4_Protein web/40 Reactome - pathway",
-    "Insights/4_Protein web/31 GO terms - function and location/GO MF.1 - Cation binding.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO CC.4 - Golgi apparatus.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO CC.3 - Plasma membrane.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO CC.2- Cytoplasm.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO CC.1 - nuclear chromosome.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO BP.4 - intracellular iron ion homeostasis.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO BP.3 - Defense response to Gram-negative bacterium.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO BP.2 - Positive regulation of autophagy.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO BP.1 - Type II interferon-mediated signaling pathway.md",
-    "Insights/4_Protein web/31 GO terms - function and location/0 GO - Gene Onthology.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/Enzyme Classification (EC) numbers.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 3.6 - Acting on acid anhydrides.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 3 - Hydrolases.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2.5 - Transferring alkyl or aryl groups, other than methyl groups.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2.1 - Transferring one-carbon groups.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2 - Transferases.md",
-    "Insights/4_Protein web/20 CATH - fold/CATH 2 - mainly beta.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 1 - oxireductases.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/0 ExplorEnz - The Enzyme database.md",
-    "Insights/4_Protein web/20 CATH - fold/Untitled.md",
-    "Insights/4_Protein web/20 CATH - fold/0 Cath -.md",
-    "Insights/4_Protein web/20 CATH - fold/CATH 1.10 - Orthogonal bundle.md",
-    "Insights/4_Protein web/20 CATH - fold/CATH 1 - mainly helical.md",
-    "Insights/4_Protein web/20 CATH - fold/CATH - Alpha-Beta Roll.md",
-    "Insights/4_Protein web/31 GO terms - function and location",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes",
-    "Insights/4_Protein web/20 CATH - fold",
-    "Insights/4_Protein web/21 SCOPe - fold",
-    "Insights/4_Protein web/10 Uniprot - Primary sequence",
-    "Insights/4_Protein web",
+    "Insights/1_Literature/High-accuracy refinement using Rosetta in CASP13.md",
+    "Insights/1_Literature/Evolution, energy landscapes and the paradoxes of protein folding.md",
+    "Insights/1_Literature/Eukaryotes as evolutionary phase transitions.md",
+    "Insights/1_Literature/The past, present and future of de novo protein design/The past, present and future of de novo protein design.md",
+    "Insights/2_Concepts/1_Proteins/ORF-Y gene.md",
+    "Insights/2_Concepts/1_Proteins/AFGP.md",
+    "Insights/2_Concepts/1_Proteins/Dsim_GD19764.md",
+    "Insights/2_Concepts/1_Proteins/QQS gene.md",
+    "Insights/2_Concepts/1_Proteins/BSC4 gene.md",
     "Insights/3_Synthesis/chapter_2_high_dimensional_spaces/chapter_2_foundations_of_data_science.pdf",
-    "Insights/3_Synthesis/chapter_2_high_dimensional_spaces",
-    "Insights/3_Synthesis",
+    "Insights/3_Synthesis/chapter_2_high_dimensional_spaces/High Dimensional Data.md",
+    "Insights/1_Literature/ProteinMPNN/Protein design using ProteinMPNN.md",
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104530.png",
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104505.png",
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104440.png",
@@ -245,7 +236,31 @@
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104317.png",
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104251.png",
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260610114631.png",
-    "Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/QQS_metapredict_V3.png",
-    "Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/QQS_ESMfold2_fast_PAE.png"
+    "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
+    "Insights/1_Literature/pLM learn evolutionary statistics/Protein language models learn evolutionary statistics of interacting sequence motifs.md",
+    "Insights/1_Literature/pLM learn evolutionary statistics/Pasted image 20260804174552.png",
+    "Insights/1_Literature/pLM learn evolutionary statistics/Pasted image 20260804174459.png",
+    "Insights/1_Literature/Language Modeling Materializes a World Model of Protein Biology/Language Modeling Materializes a World Model of Protein Biology.md",
+    "Insights/1_Literature/InterPLM/InterPLM discovering interpretable features using Sparse AutoEncoders.md",
+    "Insights/1_Literature/Biological structure and function from learning sequences/Biological structure and function from learning sequences.md",
+    "Insights/1_Literature/Mathematical theory of language/Mathematical theory of language.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO MF.1 - Cation binding.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.4 - Golgi apparatus.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.3 - Plasma membrane.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.1 - nuclear chromosome.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.2- Cytoplasm.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.4 - intracellular iron ion homeostasis.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.3 - Defense response to Gram-negative bacterium.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.1 - Type II interferon-mediated signaling pathway.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.2 - Positive regulation of autophagy.md",
+    "Insights/3_Synthesis/chapter_2_high_dimensional_spaces",
+    "Insights/2_Concepts/1_Proteins",
+    "Insights/1_Literature/Quantifying uncertainty of protein representations",
+    "Insights/1_Literature/The past, present and future of de novo protein design",
+    "Insights/1_Literature/ProteinMPNN",
+    "Insights/1_Literature/pLM learn evolutionary statistics",
+    "Insights/1_Literature/Mathematical theory of language",
+    "Insights/1_Literature/Language Modeling Materializes a World Model of Protein Biology",
+    "Insights/1_Literature/InterPLM"
   ]
 }
