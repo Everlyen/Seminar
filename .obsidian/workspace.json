@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
+                "file": "Notes to Alok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantifying Uncertainty of protein representations"
+              "title": "Notes to Alok"
             }
           }
         ]
@@ -199,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c9129b7a6aa0df",
+  "active": "589bfdc7332e0517",
   "lastOpenFiles": [
+    "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
     "Notes to Alok.md",
     "README.md",
     "Landing page.md",
@@ -218,7 +219,6 @@
     "Insights/2_Concepts/Log-likelihood.md",
     "Insights/2_Concepts/Ergodic Process.md",
     "Insights/2_Concepts/Distributional Hypothesis.md",
-    "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
     "Insights/2_Concepts/bioinformatics",
     "Insights/2_Concepts/protein folding energy landscape.md",
     "Insights/1_Literature/InterPLM/InterPLM discovering interpretable features using Sparse AutoEncoders.md",
