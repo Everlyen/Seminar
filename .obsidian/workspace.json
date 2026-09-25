@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantifying Uncertainty of protein representations"
+              "title": "README"
             }
           }
         ],
@@ -216,6 +216,9 @@
   },
   "active": "589bfdc7332e0517",
   "lastOpenFiles": [
+    "Insights/1_Literature/InterPLM/InterPLM discovering interpretable features using Sparse AutoEncoders.md",
+    "README.md",
+    "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
     "Insights/1_Literature/High-accuracy refinement using Rosetta in CASP13.md",
     "Insights/1_Literature/Evolution, energy landscapes and the paradoxes of protein folding.md",
     "Insights/1_Literature/Eukaryotes as evolutionary phase transitions.md",
@@ -236,12 +239,10 @@
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104317.png",
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104251.png",
     "Insights/1_Literature/ProteinMPNN/Pasted image 20260610114631.png",
-    "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
     "Insights/1_Literature/pLM learn evolutionary statistics/Protein language models learn evolutionary statistics of interacting sequence motifs.md",
     "Insights/1_Literature/pLM learn evolutionary statistics/Pasted image 20260804174552.png",
     "Insights/1_Literature/pLM learn evolutionary statistics/Pasted image 20260804174459.png",
     "Insights/1_Literature/Language Modeling Materializes a World Model of Protein Biology/Language Modeling Materializes a World Model of Protein Biology.md",
-    "Insights/1_Literature/InterPLM/InterPLM discovering interpretable features using Sparse AutoEncoders.md",
     "Insights/1_Literature/Biological structure and function from learning sequences/Biological structure and function from learning sequences.md",
     "Insights/1_Literature/Mathematical theory of language/Mathematical theory of language.md",
     "Insights/4_Protein web/31 GO terms - function and location/GO MF.1 - Cation binding.md",
@@ -252,7 +253,6 @@
     "Insights/4_Protein web/31 GO terms - function and location/GO BP.4 - intracellular iron ion homeostasis.md",
     "Insights/4_Protein web/31 GO terms - function and location/GO BP.3 - Defense response to Gram-negative bacterium.md",
     "Insights/4_Protein web/31 GO terms - function and location/GO BP.1 - Type II interferon-mediated signaling pathway.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO BP.2 - Positive regulation of autophagy.md",
     "Insights/3_Synthesis/chapter_2_high_dimensional_spaces",
     "Insights/2_Concepts/1_Proteins",
     "Insights/1_Literature/Quantifying uncertainty of protein representations",
