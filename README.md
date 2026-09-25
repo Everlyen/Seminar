@@ -4,7 +4,7 @@ The structure we have given to this literature discussion is the following:
 
 Part 1: 
 During the group meeting (week 1)
-Brief introduction to the history of relationship between protein sequence and function, a brief introduction to computational approaches through bioinformatics to protein language models (pLMs).
+Brief introduction to the history of relationship between protein sequence and function, a brief introduction to computational approaches through [[bioinformatics]] to protein language models (pLMs).
 How is information [[embeddings|embedded]] in a pLM (vectors) and how current work in the field is directed towards interpretation of the multidimensional spaces through [[Sparse Auto Encoders]] which allow extraction of meaningful relationships and information. Or is it just seeing what we want to see? What would information like this be useful for? 
 
 Part 2: 
@@ -18,3 +18,5 @@ Within these papers we've tried our best to give some information regarding our 
 Part 3: 
 Literature discussion
 We've gained an understanding of why tools like the [ESM Atlas](https://biohub.ai/esm/protein/atlas) now exist, and the type of information that it is hoped can be extracted from them. We've gained some understanding of how to interpret the information that can be extracted from such representations. What happens when we apply this to a case we're familiar with, like GBPs for example? 
+
+Additional reading to gain context: (Insert link of the bioarchive paper here!)
