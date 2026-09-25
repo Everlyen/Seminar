@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "4e29fdb9a6ce6f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be3a1ef973f8071",
+        "type": "tabs",
+        "dimension": 68.4010152284264,
+        "children": [
+          {
+            "id": "fae78779cac04cec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "fad3202e446e9243"
+          }
+        ]
+      },
+      {
+        "id": "86988ed74ab9ed66",
+        "type": "tabs",
+        "dimension": 31.5989847715736,
+        "children": [
+          {
+            "id": "909a237c93e56592",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "10 Uniprot - Primary sequence/GBP1 P32455.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 9.76,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.13168724279835317,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of GBP1 P32455"
+            },
+            "group": "fad3202e446e9243"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d90c42cfb4082ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "472991a7b5f80a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6814552338c1e0d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39d982744c216126",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc0ef3976e880c08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7d3bf9bc636dea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c74535632ef96eb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9055d660626c067d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Principles of protein structure, comparative protein modelling and visualisation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4697aa72e38af788",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Principles of protein structure, comparative protein modelling and visualisation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c10d088e1b0b25ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e60f277e593f02d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "af27dc1fe9b08536",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Principles of protein structure, comparative protein modelling and visualisation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6814552338c1e0d1",
+  "lastOpenFiles": [
+    "pLM_notes/Insights/1_Literature/Evolution, energy landscapes and the paradoxes of protein folding.md",
+    "pLM_notes/Insights/1_Literature/InterPLM/2026 InterPLM discovering interpretable features in protein language models via sparse autoencoders.pdf",
+    "pLM_notes/Insights/1_Literature/Towards interpretable protein structure prediction with sparse autoencoders/Towards interpretable protein structure prediction with sparse autoencoders.md",
+    "pLM_notes/Insights/1_Literature/Towards interpretable protein structure prediction with sparse autoencoders",
+    "Dsim_GD19764.md",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/GD19764_ESMfold2_fast_PAE.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/GD19764_aiupred_download.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/GD19764_metapredict_V3.png",
+    "pLM_notes/Insights/2_Concepts/de novo genes.md",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/Protein language models learn evolutionary statistics of interacting sequence motifs.md",
+    "pLM_notes/Insights/2_Concepts/CASP.md",
+    "pLM_notes/Insights/2_Concepts/intrinsic disorder.md",
+    "pLM_notes/Insights/2_Concepts/1_Proteins/QQS gene.md",
+    "pLM_notes/Insights/2_Concepts/1_Proteins/ORF-Y gene.md",
+    "pLM_notes/Insights/2_Concepts/1_Proteins/BSC4 gene.md",
+    "pLM_notes/Insights/2_Concepts/1_Proteins/AFGP.md",
+    "pLM_notes/Insights/2_Concepts/1_Proteins",
+    "pLM_notes/Insights/2_Concepts/protein folding energy landscape.md",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/BSC4_metapredict_V3.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/AFGP_metapredict_V3.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/ORFY_metapredict_V3.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/QQS_metapredict_V3.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/ORFY_ESMfold2_fast_PAE.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/AFGP_ESMfold2_fast_PAE.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/ORFY_aiupred_download.png",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/Papers.md",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2",
+    "pLM_notes/Insights/1_Literature/High-accuracy refinement using Rosetta in CASP13.md",
+    "pLM_notes/Insights/2_Concepts/Sparse Auto Encoders.md",
+    "pLM_notes/Insights/1_Literature/The past, present and future of de novo protein design/The past, present and future of de novo protein design.md",
+    "pLM_notes/Insights/2_Concepts/Alternative splicing.md",
+    "pLM_notes/Insights/2_Concepts/isoforms.md",
+    "pLM_notes/Insights/1_Literature/The past, present and future of de novo protein design/2026 Wei Yang et al The past, present and future of de novo protein design.pdf",
+    "pLM_notes/Insights/1_Literature/The past, present and future of de novo protein design",
+    "pLM_notes/Insights/1_Literature/InterPLM/InterPLM discovering interpretable features using Sparse AutoEncoders.md",
+    "compression.md",
+    "data",
+    "pLM_notes/Insights/2_Concepts/Protein families.md",
+    "pLM_notes/Insights/2_Concepts/pLDDT.md",
+    "pLM_notes/Insights/2_Concepts/Log-likelihood.md",
+    "pLM_notes/Insights/2_Concepts/CHESS.md",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/SI zhang-et-al-2024-protein-language-models-learn-evolutionary-statistics-of-interacting-sequence-motifs.pdf",
+    "pLM_notes/Insights/2_Concepts/Categorical Jacobian.md",
+    "pLM_notes/Insights/2_Concepts/Homology.md",
+    "pLM_notes/Insights/1_Literature/pLM learn evolutionary statistics/zhang-et-al-2024-protein-language-models-learn-evolutionary-statistics-of-interacting-sequence-motifs.pdf",
+    "pLM_notes/Actions/PlungeFreeze/Plunging experiments/Plunging gold foil.pdf"
+  ]
+}

@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Landing page"
             }
-          },
-          {
-            "id": "3f4ca72bb0604512",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "tada too.md",
-                "bFile": "tada too.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: tada too  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,9 +199,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c9129b7a6aa0df",
+  "active": "cecb59c179dd0400",
   "lastOpenFiles": [
-    "tada too.md",
-    "Landing page.md"
+    "Insights/4_Protein web/40 Reactome - pathway/Reactome 2 - Cytokine Signaling in Immune system.md",
+    "Insights/4_Protein web/40 Reactome - pathway/0 Reactome.md",
+    "Insights/4_Protein web/40 Reactome - pathway",
+    "Insights/4_Protein web/31 GO terms - function and location/GO MF.1 - Cation binding.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.4 - Golgi apparatus.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.3 - Plasma membrane.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.2- Cytoplasm.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO CC.1 - nuclear chromosome.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.4 - intracellular iron ion homeostasis.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.3 - Defense response to Gram-negative bacterium.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.2 - Positive regulation of autophagy.md",
+    "Insights/4_Protein web/31 GO terms - function and location/GO BP.1 - Type II interferon-mediated signaling pathway.md",
+    "Insights/4_Protein web/31 GO terms - function and location/0 GO - Gene Onthology.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/Enzyme Classification (EC) numbers.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 3.6 - Acting on acid anhydrides.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 3 - Hydrolases.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2.5 - Transferring alkyl or aryl groups, other than methyl groups.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2.1 - Transferring one-carbon groups.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2 - Transferases.md",
+    "Insights/4_Protein web/20 CATH - fold/CATH 2 - mainly beta.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 1 - oxireductases.md",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes/0 ExplorEnz - The Enzyme database.md",
+    "Insights/4_Protein web/20 CATH - fold/Untitled.md",
+    "Insights/4_Protein web/20 CATH - fold/0 Cath -.md",
+    "Insights/4_Protein web/20 CATH - fold/CATH 1.10 - Orthogonal bundle.md",
+    "Insights/4_Protein web/20 CATH - fold/CATH 1 - mainly helical.md",
+    "Insights/4_Protein web/20 CATH - fold/CATH - Alpha-Beta Roll.md",
+    "Insights/4_Protein web/31 GO terms - function and location",
+    "Insights/4_Protein web/30 ExplorEnz - enzymes",
+    "Insights/4_Protein web/20 CATH - fold",
+    "Insights/4_Protein web/21 SCOPe - fold",
+    "Insights/4_Protein web/10 Uniprot - Primary sequence",
+    "Insights/4_Protein web",
+    "Insights/3_Synthesis/chapter_2_high_dimensional_spaces/chapter_2_foundations_of_data_science.pdf",
+    "Insights/3_Synthesis/chapter_2_high_dimensional_spaces",
+    "Insights/3_Synthesis",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104530.png",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104505.png",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104440.png",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104426.png",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104410.png",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104317.png",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104251.png",
+    "Insights/1_Literature/ProteinMPNN/Pasted image 20260610114631.png",
+    "Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/QQS_metapredict_V3.png",
+    "Insights/1_Literature/pLM learn evolutionary statistics/De novo gene testing AF2 vs ESMFold2/QQS_ESMfold2_fast_PAE.png"
   ]
 }
