@@ -46,5 +46,7 @@ CASP14 (2020) - AlphaFold2: ~2/3 of 96 targets reach GDT_TS >90, competitive wit
 
 MULTICOM and trROSETTA (Yang group) are interesting - outperform the default AF models in CASP15 and 16. 
 
-How this leads back to ESM? The coevolutionary statistics that DCA/AF2 extract _explicitly_ from a MSA at prediction time get baked _implicitly_ into ESM-2's weights during pretraining across the whole protein dataset. So really AF2 is a natural extension on what the field was already doing and ESM2 is the next step. (Analogy: if aminoacids are tokenized as words are, instead of looking for similar sentences -MSA/DCA to find the fold, they consume all books -Databases, train on that and find similarities?)
+How this leads back to ESM? The coevolutionary statistics that DCA/AF2 extract _explicitly_ from a MSA at prediction time get baked _implicitly_ into ESM-2's weights during pretraining across the whole protein dataset. 
+
+Question: So really is AF2 is a natural extension on what the field was already doing and ESM2 is the next step. (Analogy: if aminoacids are tokenized as words are, instead of looking for similar sentences -MSA/DCA to find the fold, they consume all books -Databases, train on that and find similarities?)
 ## Example application 💡
