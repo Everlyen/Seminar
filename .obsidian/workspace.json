@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "bioinformatics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "bioinformatics"
             }
           }
         ],
@@ -231,8 +231,9 @@
   },
   "active": "a73ddf5d5290510a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "bioinformatics.md",
+    "conflict-files-obsidian-git.md",
     "Landing page.md",
     "Notes to Alok.md",
     "tada too.md",
@@ -257,7 +258,6 @@
     "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2.1 - Transferring one-carbon groups.md",
     "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 2 - Transferases.md",
     "Insights/4_Protein web/20 CATH - fold/CATH 2 - mainly beta.md",
-    "Insights/4_Protein web/30 ExplorEnz - enzymes/EC 1 - oxireductases.md",
     "Insights/4_Protein web/31 GO terms - function and location",
     "Insights/4_Protein web/30 ExplorEnz - enzymes",
     "Insights/4_Protein web/20 CATH - fold",
