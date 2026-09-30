@@ -12,6 +12,9 @@ AB: Good idea.
  CP: I know how to do this but only using dataview. It would be another community plugin to install but may be worth it for this. Using that we can query all concepts and add them to the landing page - we wouldn't even need to organize them, we could use tags to show what they belong to: 
  eg. 
  ```dataview
+ list tags
+ ```
+ ```dataview
  TABLE without ID 
 	 tags AS "Connections",
 	 file.link AS "Concept" 

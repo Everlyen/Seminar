@@ -3,7 +3,7 @@ aliases:
   - protein motif
   - protein domains
 tags:
-  - ai
+  - structural_biology
 ---
 
 ## What is it? 🤔

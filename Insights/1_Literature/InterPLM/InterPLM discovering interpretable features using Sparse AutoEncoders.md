@@ -13,7 +13,7 @@ dataset:
 architecture_params:
 ---
 #### Synopsis
-The authors demonstrate the application of mechanistic interpretability techniques developed for language models for protein language models. The tool, Sparse AutoEncoder (SAE) can be used to extract relevant features for residues from a pLM. As a practical application, they claim that it can be used to identify missing features in databases for perhaps further curation. 
+The authors demonstrate the application of mechanistic interpretability techniques developed for language models for protein language models. The tool, [[Sparse Auto Encoders|Sparse AutoEncoder]] (SAE) can be used to extract relevant features for residues from a pLM. As a practical application, they claim that it can be used to identify missing features in databases for perhaps further curation. 
 
 Questions I have before reading the paper: 
 - How does SAE actually work? Is there any risk of "seeing what you want to see?" involved here because you are using nonlinear functions on high dimensional data to project it down to small number of interpretable contents. 
