@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/1_Literature/High-accuracy refinement using Rosetta in CASP13.md",
+                "file": "Notes to Alok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High-accuracy refinement using Rosetta in CASP13"
+              "title": "Notes to Alok"
             }
           }
         ]
@@ -201,12 +201,12 @@
   },
   "active": "cecb59c179dd0400",
   "lastOpenFiles": [
-    "Insights/1_Literature/The past, present and future of de novo protein design/The past, present and future of de novo protein design.md",
-    "Insights/1_Literature/Eukaryotes as evolutionary phase transitions.md",
+    "Landing page.md",
+    "Notes to Alok.md",
     "Insights/1_Literature/Evolution, energy landscapes and the paradoxes of protein folding.md",
     "Insights/1_Literature/High-accuracy refinement using Rosetta in CASP13.md",
-    "Notes to Alok.md",
-    "Landing page.md",
+    "Insights/1_Literature/The past, present and future of de novo protein design/The past, present and future of de novo protein design.md",
+    "Insights/1_Literature/Eukaryotes as evolutionary phase transitions.md",
     "Insights/2_Concepts/Categorical Jacobian.md",
     "Insights/2_Concepts/Transformers.md",
     "Insights/2_Concepts/intrinsic disorder.md",
