@@ -3,6 +3,7 @@ aliases:
 tags:
   - ai
   - protein_language_models
+category: concept
 ---
 
 ## What is it? 🤔

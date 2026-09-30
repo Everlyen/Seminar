@@ -2,6 +2,7 @@
 aliases:
 tags:
   - ai
+category: concept
 ---
 
 
