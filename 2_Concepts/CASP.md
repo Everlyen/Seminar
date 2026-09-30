@@ -1,8 +1,6 @@
 ---
-aliases:
 tags:
-  - ai
-category: concept
+  - bioinformatics
 ---
 
 ## What is it? 🤔

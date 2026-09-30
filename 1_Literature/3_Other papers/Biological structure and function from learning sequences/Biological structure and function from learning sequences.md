@@ -1,13 +1,9 @@
 ---
 link: https://www.pnas.org/doi/10.1073/pnas.2016239118
-year: "2020"
-tags:
-  - ai
-  - llm
-  - protein_language_models
-  - esm
-  - 
 authors:
+year: 2020
+tags:
+  - protein_language_models
 ---
 ## What we thought was most interesting
 

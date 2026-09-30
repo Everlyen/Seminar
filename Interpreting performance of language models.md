@@ -1,7 +1,5 @@
 ---
 tags:
-  - ai
-  - llm
   - protein_language_models
 related:
   - "[[log-likelihood|Entropy]]"

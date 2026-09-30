@@ -20,8 +20,7 @@ tags:
 
 ```dataview
 LIST
-FROM [[]]
-Where file.folder = "2_Concepts"
+FROM [[]] AND "2_Concepts"
 ```
 
 ### Where this concept is discussed

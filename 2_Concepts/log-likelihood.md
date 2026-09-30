@@ -1,9 +1,8 @@
 ---
-aliases:
-  - Entropy
 tags:
   - ai
 ---
+Alias: Entropy
 
 ## What is it? 🤔
 It is a common way to measure the performance of a model. We are talking about any model that aims to learn from data through some parameters. We want the model to maximise the term Likelihood. This is the probability that we observe some data, *D* for a given set of parameters *theta*. The model tunes the parameter to fit the data. 

@@ -1,8 +1,7 @@
 ---
 year: "2015"
 tags:
-  - evolution
-  - protein_structure
+  - biology
 link: https://pubmed.ncbi.nlm.nih.gov/25530262/
 architecture_class:
 training_size:

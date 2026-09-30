@@ -1,8 +1,6 @@
 ---
 aliases:
 tags:
-  - ai
-  - "#genetics"
   - "#biology"
 related:
   - "[[homology]]"

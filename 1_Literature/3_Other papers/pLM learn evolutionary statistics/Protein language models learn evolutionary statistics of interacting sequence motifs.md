@@ -1,16 +1,9 @@
 ---
 year: 2024
 tags:
-  - ai
   - protein_language_models
-  - esm
 link:
   - https://doi.org/10.1073/pnas.2406285121
-architecture_class:
-  - transformers
-training_size:
-dataset:
-architecture_params:
 ---
 ## Synopsis
 

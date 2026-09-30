@@ -1,9 +1,7 @@
 ---
 year: "2026"
 tags:
-  - ai
-  - generative_biology
-  - protein_design
+  - bioinformatics
 link: https://www.nature.com/articles/s41586-026-10328-7
 architecture_class:
 training_size:

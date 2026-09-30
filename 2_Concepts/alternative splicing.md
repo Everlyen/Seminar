@@ -1,8 +1,6 @@
 ---
-aliases:
 tags:
-  - ai
-category: concept
+  - biology
 ---
 ## What it is
 A process that happens during gene expression where exons are included or excluded from the pre-mRNA transcript. Introns can be mistakenly or intentionally kept in the mRNA, exons are omitted, different boundaries are chosen for joining exons. 

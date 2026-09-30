@@ -1,11 +1,7 @@
 ---
 aliases:
 tags:
-  - ai
-  - genetics
-  - protein_structure
-related:
-  - sc
+  - bioinformatics
 ---
 
 ## What is it? 🤔

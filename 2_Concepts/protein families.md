@@ -1,9 +1,6 @@
 ---
-aliases:
-  - protein motif
-  - protein domains
 tags:
-  - structural_biology
+  - biology
 ---
 
 ## What is it? 🤔

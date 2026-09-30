@@ -1,7 +1,7 @@
 ---
 year: "2019"
 tags:
-  - protein_structure
+  - bioinformatics
 link: https://onlinelibrary.wiley.com/doi/10.1002/prot.25784
 architecture_class:
 training_size:

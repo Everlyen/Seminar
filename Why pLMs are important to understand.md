@@ -1,13 +1,19 @@
-### What exists
+### Before times
 
 ```mermaid
-graph LR
-    P[Protein sequence\nUniProt] --> S[3D Structure\nPDB · AlphaFold]
-    P --> F[Domains & families\nInterPro]
-    P --> D[Disorder\nDisProt]
-    P --> V[Variants\nClinVar]
-    S --> C[Structural class\nSCOPe]
+graph TD
+    D[Central dogma\nsequence → structure → function]
+    D --> P[Sequence databases\nUniProt · UniRef]
+    D --> S[Structure databases\nPDB · AlphaFold]
+    D --> F[Function databases\nInterPro · GO terms]
+    P --> CASP[CASP\nbenchmarking structure prediction]
+    S --> CASP
+    CASP -->|decades of progress| pLM[Protein language models\nESM-2]
+    P --> pLM
 ```
+
+**Concepts in this diagram:** [[CASP]] · [[homology]] · [[protein families]] · [[intrinsic disorder]] · [[bioinformatics]] · [[SCOPe]]
+
 
 ### What the papers ask
 ```mermaid
@@ -16,6 +22,8 @@ graph TD
     pLM --> E[Embeddings]
     E --> SAE[InterPLM\nSAE features]
     E --> U[Uncertainty\nRNS]
-    SAE -.->|matches known biology?| K[Known databases]
-    U -.->|matches known biology?| K
+    SAE -.->|what did the model learn?| K[Known annotations\nInterPro - Uniprot]
+    U -.->|can we trust this embedding?| K
 ```
+**Concepts in this diagram:** 
+[[ESM-2]] · [[embeddings]] · [[sparse auto encoders]] · [[random neighbor score (RNS)]] · [[mechanistic interpretability]]
