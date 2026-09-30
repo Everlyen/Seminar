@@ -11,14 +11,14 @@
             "id": "cecb59c179dd0400",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "Notes to Alok.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Notes to Alok"
             }
           }
         ]
@@ -199,9 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c9129b7a6aa0df",
+  "active": "cecb59c179dd0400",
   "lastOpenFiles": [
+    "Insights/2_Concepts/Sparse Auto Encoders.md",
     "Notes to Alok.md",
+    "Insights/2_Concepts/t-SNE.md",
     "Landing page.md",
     "Insights/2_Concepts/1_Proteins/Pasted image 20260930180500.png",
     "Insights/2_Concepts/Alternative splicing.md",
@@ -227,7 +229,6 @@
     "Insights/4_Protein web/31 GO terms - function and location/GO CC.2- Cytoplasm.md",
     "Insights/4_Protein web/31 GO terms - function and location/GO CC.1 - nuclear chromosome.md",
     "Insights/4_Protein web/31 GO terms - function and location/GO BP.4 - intracellular iron ion homeostasis.md",
-    "Insights/4_Protein web/31 GO terms - function and location/GO BP.3 - Defense response to Gram-negative bacterium.md",
     "Insights/4_Protein web/31 GO terms - function and location",
     "Insights/4_Protein web/30 ExplorEnz - enzymes",
     "Insights/4_Protein web/20 CATH - fold",

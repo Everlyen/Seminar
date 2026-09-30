@@ -13,9 +13,10 @@ AB: Good idea.
  eg. 
  ```dataview
  TABLE without ID 
-	 file.name AS "Concept", 
-	 tags AS "Connections"
+	 tags AS "Connections",
+	 file.link AS "Concept" 
 Where file.folder = "Insights/2_Concepts"
+Sort tags desc
  ```
  It would generate a table that looks something like this: 
  ![[Pasted image 20260930180500.png|418]]
