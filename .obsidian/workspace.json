@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/1_Literature/The past, present and future of de novo protein design/The past, present and future of de novo protein design.md",
+                "file": "Insights/1_Literature/High-accuracy refinement using Rosetta in CASP13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The past, present and future of de novo protein design"
+              "title": "High-accuracy refinement using Rosetta in CASP13"
             }
           }
         ]
@@ -201,9 +201,10 @@
   },
   "active": "cecb59c179dd0400",
   "lastOpenFiles": [
+    "Insights/1_Literature/The past, present and future of de novo protein design/The past, present and future of de novo protein design.md",
+    "Insights/1_Literature/Eukaryotes as evolutionary phase transitions.md",
     "Insights/1_Literature/Evolution, energy landscapes and the paradoxes of protein folding.md",
     "Insights/1_Literature/High-accuracy refinement using Rosetta in CASP13.md",
-    "Insights/1_Literature/Eukaryotes as evolutionary phase transitions.md",
     "Notes to Alok.md",
     "Landing page.md",
     "Insights/2_Concepts/Categorical Jacobian.md",
@@ -215,7 +216,6 @@
     "Insights/4_Protein web/10 Uniprot - Primary sequence/GBP1 P32455.md",
     "Insights/1_Literature/Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
     "Insights/1_Literature/Untitled.md",
-    "Insights/1_Literature/The past, present and future of de novo protein design/The past, present and future of de novo protein design.md",
     "Insights/2_Concepts/1_Proteins/ORF-Y gene.md",
     "Insights/2_Concepts/1_Proteins/AFGP.md",
     "Insights/2_Concepts/1_Proteins/Dsim_GD19764.md",
