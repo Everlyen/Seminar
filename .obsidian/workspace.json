@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Concepts/dictionary learning.md",
+                "file": "Notes for Alok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dictionary learning"
+              "title": "Notes for Alok"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Concepts/dictionary learning.md",
+                "file": "Notes for Alok.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,16 @@
   },
   "active": "9713048031ec8dba",
   "lastOpenFiles": [
-    "2_Concepts/distributional hypothesis.md",
+    "1_Literature/3_Other papers/1_Associated literature.md",
+    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Protein language models learn evolutionary statistics of interacting sequence motifs.md",
+    "Getting started.md",
+    "README.md",
+    "Interpreting performance of language models.md",
+    "Landing page.md",
+    "Notes for Alok.md",
+    "2_Concepts/embeddings.md",
     "2_Concepts/dictionary learning.md",
+    "2_Concepts/distributional hypothesis.md",
     "2_Concepts/Proposed to remove/CHESS.md",
     "2_Concepts/de novo genes.md",
     "2_Concepts/categorical jacobian.md",
@@ -214,20 +222,12 @@
     "1_Literature/3_Other papers/High-accuracy refinement using Rosetta in CASP13.md",
     "2_Concepts/protein folding energy landscape.md",
     "2_Concepts/SAE.md",
-    "1_Literature/3_Other papers/Associated literature.md",
     "2_Concepts/UMAP.md",
     "2_Concepts/ESM-2.md",
-    "Landing page.md",
     "2_Concepts/t-SNE.md",
-    "Interpreting performance of language models.md",
-    "Getting started.md",
     "1_Literature/3_Other papers/A Comprehensive Review of Protein Language Models.md",
     "2_Concepts/RNS.md",
-    "1_Literature/2_Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
-    "2_Concepts/protein families.md",
     "2_Concepts/Proposed to remove",
-    "README.md",
-    "2_Concepts/mechanistic interpretability.md",
     "Untitled.base",
     "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606105632.png",
     "1_Literature/3_Other papers/Biological structure and function from learning sequences/Fig.1.png",
