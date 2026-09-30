@@ -28,13 +28,13 @@ What to watch out for:
 
 ## Concepts
 [[Distributional Hypothesis]]
-[[Perpexity]]
+[[Perplexity]]
 [[Homology]]: Shared ancestry
 [[Interpreting performance of language models]]
 ## Methods
 - Trained on UniParc database
 - Modelling performance measured as a function of sample diversity
-- [[Perpexity]] used as a metric to evaluate different models
+- [[Perplexity]] used as a metric to evaluate different models
 - Different models tested included the [[Transformers]], [[LSTM]] 
 
 #### Evaluating structural representations 
@@ -96,7 +96,7 @@ Using ATP-binding domain of the ABC transporters (PF00005), Protein kinase domai
 
 This paper directly deals with the question of what a transformer model actually learns when it is trained on a language model objective on protein sequences. They employ a transformer architecture trained on 250 million sequences. The primary methods they use to study the structural representation is visualisation through dimensionality reduction (using [[t-SNE]]) and distance based measures for quantifying accuracy of structural representation. 
 
-They find that primarily, a transformer was better at modelling sequences than LSTM architectures. They showed lower [[Perpexity]] of around 8.4 for the largest transformer models they trained. 
+They find that primarily, a transformer was better at modelling sequences than LSTM architectures. They showed lower [[Perplexity]] of around 8.4 for the largest transformer models they trained. 
 
 The interesting results from this paper is not just that it can model sequences, but how it does it. They show through standard mechanistic interpretability techniques that a transformer model has learnt some structural features in its representations. 
 

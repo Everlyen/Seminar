@@ -26,7 +26,7 @@
 [[Distributional Hypothesis]]
 [[embeddings]]
 [[Ergodic Process]]
-[[Perpexity]]
+[[Perplexity]]
 [[Sparse Auto Encoders]]
 [[t-SNE]]
 [[Transformers]]
