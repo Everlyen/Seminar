@@ -3,7 +3,7 @@ aliases:
   - Entropy
 tags:
   - ai
-related: "[[Perpexity]]"
+related: "[[Perplexity]]"
 ---
 
 ## What is it? 🤔
