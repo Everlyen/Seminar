@@ -1,1 +1,0 @@
-This subclass contains only one sub-subclass at present. It is somewhat heterogeneous, containing enzymes that transfer alkyl or related groups that are either substituted or unsubstituted.
