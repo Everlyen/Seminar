@@ -24,7 +24,7 @@ The structure we have given to this literature discussion is the following:
 ### **Part 1**  
 **During the group meeting (week 1)**  
 Brief introduction to the history of relationship between protein sequence and function, a brief introduction to computational approaches through [[bioinformatics]] to protein language models (pLMs).
-How is information [[embeddings|embedded]] in a pLM (vectors) and how current work in the field is directed towards interpretation of the multidimensional spaces through [[sparse auto encoders]] which allow extraction of meaningful relationships and information. Or is it just seeing what we want to see? What would information like this be useful for? 
+How is information [[embeddings|embedded]] in a pLM (vectors) and how current work in the field is directed towards interpretation of the multidimensional spaces through [[SAE]] which allow extraction of meaningful relationships and information. Or is it just seeing what we want to see? What would information like this be useful for? 
 
 ### **Part 2**  
 **Individual reading and exploration of concepts and ideas (weeks 1-3?) **  

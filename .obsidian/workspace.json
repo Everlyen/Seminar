@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9832a31b8e2eab44",
+        "id": "1b85bfd40481c7b8",
         "type": "tabs",
         "children": [
           {
-            "id": "589bfdc7332e0517",
+            "id": "9713048031ec8dba",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2_Concepts/binding site.md",
-                "bFile": "2_Concepts/binding site.md",
-                "aRef": ""
+                "file": "2_Concepts/dictionary learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: binding site  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "dictionary learning"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "right": {
     "id": "eacdea3a5c7f6913",
@@ -161,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2_Concepts/dictionary learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,36 +199,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589bfdc7332e0517",
+  "active": "9713048031ec8dba",
   "lastOpenFiles": [
-    "2_Concepts/critical assessment of structure prediction (CASP).md",
-    "Landing page.md",
-    "2_Concepts/Structural Classification of Proteins — extended (SCOPe).md",
-    "2_Concepts/t-distributed stochastic neighbor embedding (t-SNE).md",
-    "2_Concepts/ergodic process.md",
-    "2_Concepts/log-likelihood.md",
-    "2_Concepts/pLDDT.md",
-    "Why pLMs are important to understand.md",
-    "2_Concepts/ESM-2.md",
-    "2_Concepts/superposition.md",
-    "2_Concepts/principle component analysis (PCA).md",
-    "2_Concepts/binding site.md",
-    "2_Concepts/bioinformatics.md",
-    "2_Concepts/intrinsic disorder.md",
-    "2_Concepts/embeddings.md",
-    "2_Concepts/structural motifs.md",
-    "2_Concepts/random neighbor score (RNS).md",
-    "2_Concepts/sequence recovery.md",
     "2_Concepts/distributional hypothesis.md",
-    "2_Concepts/isoforms.md",
-    "2_Concepts/orthologs.md",
-    "2_Concepts/sparse auto encoders.md",
-    "README.md",
+    "2_Concepts/dictionary learning.md",
+    "2_Concepts/Proposed to remove/CHESS.md",
+    "2_Concepts/de novo genes.md",
+    "2_Concepts/categorical jacobian.md",
+    "2_Concepts/CASP.md",
+    "2_Concepts/bioinformatics.md",
+    "2_Concepts/binding site.md",
+    "9_Templates/Concept template.md",
+    "9_Templates/Literature template.md",
+    "1_Literature/3_Other papers/High-accuracy refinement using Rosetta in CASP13.md",
+    "2_Concepts/protein folding energy landscape.md",
+    "2_Concepts/SAE.md",
+    "1_Literature/3_Other papers/Associated literature.md",
+    "2_Concepts/UMAP.md",
+    "2_Concepts/ESM-2.md",
+    "Landing page.md",
+    "2_Concepts/t-SNE.md",
+    "Interpreting performance of language models.md",
     "Getting started.md",
-    "Literature discussion timeline.md",
     "1_Literature/3_Other papers/A Comprehensive Review of Protein Language Models.md",
+    "2_Concepts/RNS.md",
+    "1_Literature/2_Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
+    "2_Concepts/protein families.md",
+    "2_Concepts/Proposed to remove",
+    "README.md",
+    "2_Concepts/mechanistic interpretability.md",
     "Untitled.base",
-    "2_Concepts/Untitled",
     "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606105632.png",
     "1_Literature/3_Other papers/Biological structure and function from learning sequences/Fig.1.png",
     "2_Concepts/Old concepts",

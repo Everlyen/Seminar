@@ -1,6 +1,7 @@
 ---
 tags:
   - protein_language_models
+one_line: statistical tool for dimensional reduction using t-distributed Stochastic Neighbor Embedding
 ---
 ## What is it? 🤔
 It is a dimensional reduction technique which maps a high-dimensional vector into smaller dimensional for interpretation. It preserves local-structures so that neighborhood information is maintained at the cost of global distance. Distances are not very meaningful in this case. 
@@ -15,4 +16,4 @@ Distances are converted into probabilities in high-D space using gaussians cente
 ## Example application 💡
 To show visually how close embeddings are from a transformer architecture
 
-Related: [[principle component analysis (PCA)]], [[uniform manifold approximation and projection (UMAP)]]
+Related: [[PCA]], [[UMAP]]

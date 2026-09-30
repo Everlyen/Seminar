@@ -1,32 +1,34 @@
-### Before times
 
+### Progression
 ```mermaid
 graph TD
     D[Central dogma\nsequence → structure → function]
-    D --> P[Sequence databases\nUniProt · UniRef]
-    D --> S[Structure databases\nPDB · AlphaFold]
-    D --> F[Function databases\nInterPro · GO terms]
-    P --> CASP[CASP\nbenchmarking structure prediction]
-    S --> CASP
+    D --> P[Sequence\nUniProt · UniRef]
+    D --> S[Structure\nPDB · SCOPe]
+    D --> Dom[Domains & families\nInterPro]
+    D --> F[Function\nGO terms]
+    P & S & Dom & F --> CASP[CASP\nbenchmark tracking progress]
     CASP -->|decades of progress| pLM[Protein language models\nESM-2]
     P --> pLM
 ```
-
-**Concepts in this diagram:** [[critical assessment of structure prediction (CASP)]] · [[homology]] · [[protein families]] · [[intrinsic disorder]] · [[bioinformatics]] · [[Structural Classification of Proteins — extended (SCOPe)]]
-
-
 ### What the papers ask
 ```mermaid
 graph TD
-    P[Sequence] --> pLM[pLM\nESM-2]
-    pLM --> E[Embeddings]
-    E --> SAE[InterPLM\nSAE features]
-    E --> U[Uncertainty\nRNS]
-    SAE -.->|what did the model learn?| K[Known annotations\nInterPro - Uniprot]
-    U -.->|can we trust this embedding?| K
+    subgraph Input
+        P[Sequence only]
+    end
+    subgraph Model
+        P --> ESM[ESM-2\ntrained on sequence alone]
+        ESM --> E[Embeddings]
+    end
+    subgraph Questions
+        E --> SAE[InterPLM\nWhat did it learn?]
+        E --> RNS[Quantifying Uncertainty\nCan I trust this?]
+    end
+    subgraph Validation
+        SAE & RNS -.-> DB[Known biology\nInterPro · GO terms · SCOPe]
+    end
 ```
-**Concepts in this diagram:** 
-[[ESM-2]] · [[embeddings]] · [[sparse auto encoders]] · [[random neighbor score (RNS)]] · [[mechanistic interpretability]].
 
 # Papers 
 [[InterPLM discovering interpretable features using Sparse AutoEncoders]]
@@ -35,8 +37,8 @@ graph TD
 ### All concepts
 ```dataview
 TABLE without ID 
-	tags AS "Domain",
-	file.link AS "Concept"
+	file.link AS "Concept",
+	one_line AS "One line definition"
 FROM "2_Concepts"
 SORT tags ASC
 ```

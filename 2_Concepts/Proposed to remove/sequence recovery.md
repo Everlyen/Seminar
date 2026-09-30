@@ -1,5 +1,5 @@
 ---
-aliases:
+one_line:
 tags:
   - metric
 ---

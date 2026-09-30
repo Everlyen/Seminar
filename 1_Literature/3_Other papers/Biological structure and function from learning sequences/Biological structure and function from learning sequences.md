@@ -44,19 +44,19 @@ What to watch out for:
 - Different models tested included the [[transformers]], [[LSTM]] 
 ### Key results
 #### Evaluating structural representations 
-- Dimensionality reduction achieved through [[t-distributed stochastic neighbor embedding (t-SNE)]] mostly
-- To understand whether the model has learnt biological properties of different amino acids (N=25), they projected the output weight matrix  (25x1208 mat) down to two-dimensions (25x2) using [[t-distributed stochastic neighbor embedding (t-SNE)]]
+- Dimensionality reduction achieved through [[t-SNE]] mostly
+- To understand whether the model has learnt biological properties of different amino acids (N=25), they projected the output weight matrix  (25x1208 mat) down to two-dimensions (25x2) using [[t-SNE]]
 ##### Does the model learn similar structural features? 
 - They performed mean-pool representation of a protein by averaging the output embeddings across all residues. Thus each protein is represented by a single point in the embedding space (1208-D). 
 - Project the protein representation down to 2-D and observe clustering
-- Color the proteins based on [[Orthologs]]
+- Color the proteins based on [[orthologs]]
 ##### Does the model learn remote [[homology]]? 
- - They get protein domains from the [[Structural Classification of Proteins — extended (SCOPe)]] directory which classifies protein domains as
+ - They get protein domains from the [[SCOPe]] directory which classifies protein domains as
 ```mermaid
 graph LR
   A[Fold] --> B[Superfamily] --> C[Family] --> D[Protein domains]
 ```
-- Take each domain from the [[Structural Classification of Proteins — extended (SCOPe)]] directory, and obtain the output [[embeddings]]. 
+- Take each domain from the [[SCOPe]] directory, and obtain the output [[embeddings]]. 
 - For each point in the embedding space, search how many true entries are present near it. If the model has learnt true representation of Fold and Superfamily, then those domains which share the same fold or superfamily gets clustered together
 
 ##### Secondary structure prediction and contact prediction
@@ -73,7 +73,7 @@ graph LR
 ![[Pasted image 20260606105632.png|447]]
 - 
 ### Multi-scale organisation in sequence representation in transformers
-#### Projections of output [[embeddings]] using [[t-distributed stochastic neighbor embedding (t-SNE)]] group sequences based on biological property
+#### Projections of output [[embeddings]] using [[t-SNE]] group sequences based on biological property
 ![[Fig.1.png]]
 
 #### Learned projections find remote homologs as good as the state of the art HHBits 
@@ -96,7 +96,7 @@ Using ATP-binding domain of the ABC transporters (PF00005), Protein kinase domai
 ![[Pasted image 20260606170248.png]]
 ## Conclusion
 
-This paper directly deals with the question of what a transformer model actually learns when it is trained on a language model objective on protein sequences. They employ a transformer architecture trained on 250 million sequences. The primary methods they use to study the structural representation is visualisation through dimensionality reduction (using [[t-distributed stochastic neighbor embedding (t-SNE)]]) and distance based measures for quantifying accuracy of structural representation. 
+This paper directly deals with the question of what a transformer model actually learns when it is trained on a language model objective on protein sequences. They employ a transformer architecture trained on 250 million sequences. The primary methods they use to study the structural representation is visualisation through dimensionality reduction (using [[t-SNE]]) and distance based measures for quantifying accuracy of structural representation. 
 
 They find that primarily, a transformer was better at modelling sequences than LSTM architectures. They showed lower [[perplexity]] of around 8.4 for the largest transformer models they trained. 
 

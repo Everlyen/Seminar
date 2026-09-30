@@ -25,7 +25,7 @@ tags:
 ## The paper itself (reference)
 
 ### What it's about
-The authors demonstrate the application of mechanistic interpretability techniques developed for language models for protein language models. The tool, [[sparse auto encoders|Sparse AutoEncoder]] (SAE) can be used to extract relevant features for residues from a pLM. As a practical application, they claim that it can be used to identify missing features in databases for perhaps further curation. 
+The authors demonstrate the application of mechanistic interpretability techniques developed for language models for protein language models. The tool, [[SAE|Sparse AutoEncoder]] (SAE) can be used to extract relevant features for residues from a pLM. As a practical application, they claim that it can be used to identify missing features in databases for perhaps further curation. 
 
 Questions the authors wanted to answer: 
 - How do they identify conserved motifs from individual sequences? 

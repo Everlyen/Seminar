@@ -1,6 +1,7 @@
 ---
 tags:
   - metric
+one_line: measure for the predicted Local Distance Difference Test
 ---
 
 ## What is it? 🤔

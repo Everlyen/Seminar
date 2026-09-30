@@ -1,7 +1,7 @@
 ---
 tags:
-  - protein_language_models
-one_line:
+  - metric
+one_line: measure for interpretability using Principle Component Analysis
 ---
 ## What it is
 

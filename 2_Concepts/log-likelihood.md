@@ -1,6 +1,7 @@
 ---
 tags:
   - metric
+one_line: measure of model performance
 ---
 Alias: Entropy
 

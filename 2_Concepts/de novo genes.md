@@ -15,14 +15,7 @@ tags:
 
 ## Open questions
 
-- [ ] 
-
-## Shows up in
-```dataview
-LIST 
-FROM [[]] 
-``` 
- Isoforms are one class of proteins to test. I am also curious about de novo genes, because these would be the proteins with the least coevolutionary information in the datasets used for training. They also arise from alternative splicing events. 
+- [ ] **CP**: Isoforms are one class of proteins to test. I am also curious about de novo genes, because these would be the proteins with the least coevolutionary information in the datasets used for training. They also arise from alternative splicing events. 
  https://pmc.ncbi.nlm.nih.gov/articles/PMC6456324/#fn-group1 - An argument to be made for an aggregation propensity score I guess. Read this better 
 Look also at the structures for these proteins and their hydrophobic exposure. (can perhaps be tested with https://pmc.ncbi.nlm.nih.gov/articles/PMC4489226/) 
 
@@ -39,3 +32,10 @@ Excluded the RNAi  knockdown experimental evidence - I think that doesn't mean t
  Interestingly for: Q1AMQ0: mean pLDDT 0.54 very different folds - with biohub fold looking more similar to antifreeze proteins.
   
 - For B4QW79: pLDDT 0.45 more secondary structure in biohub. Paper (https://pmc.ncbi.nlm.nih.gov/articles/PMC8059200/) used a webtool - BUSCA - to find localization and identified a potential transmembrane helix. 
+
+## Shows up in
+```dataview
+LIST 
+FROM [[]] 
+``` 
+ 

@@ -1,6 +1,7 @@
 ---
 tags:
   - metric
+one_line: measure of xxx using Random Neighbor Score
 ---
 ## What it is
 

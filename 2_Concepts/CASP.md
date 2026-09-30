@@ -1,9 +1,10 @@
 ---
 tags:
   - bioinformatics
+  - 
+one_line: competition for Critical Assessment of Structure Prediction used as a benchmark
 ---
-
-## What is it? 🤔
+## What it is
 Critical Assesment of Structure Prediction - [CASP](https://en.wikipedia.org/wiki/CASP)
 Ranking of current protein structure prediction methods. A.I. models like Alphafold have won since 2018 (CASP13) when Alphafold1 participated for the first time. In 2020 (CASP14) Alphafold 2 was introduced and scored 90/100 points of accuracy (what does accuracy measure here exactly?) in the category of moderately difficult protein targets (interpretation of quote from wiki from CASP cofounder and the graph in wikipedia article. But no source.)
 
@@ -13,15 +14,18 @@ There are different categories in CASP, one of them is model refinement where pr
 AlphaFold2 criticism: 
 It did not reveal the underlying mechanism or rules of protein folding for the protein folding problem. 
  - source: https://www.chemistryworld.com/opinion/behind-the-screens-of-alphafold/4012867.article
-## Where I learnt this 🕶
-Background recollection and wikipedia curation for accuracy - Cecilia
-First encountered: [[Protein language models learn evolutionary statistics of interacting sequence motifs]]
-Appears again in the work of David Baker 
+## Why it matters in our papers
+CASP is used for benchmarking of the structural prediction methods (protein:protein  interactions are evaluated by [CAPRI](https://www.capri-docking.org/) which is very similar)
 
+## Where it gets confusing
+*Edge cases, places where the concept is used differently across papers, or things that tripped us up.*
+
+**Initials**: Text 
 
 ### History
 source: https://predictioncenter.org/index.cgi with some extra digging: 
-Starting from a primary sequence how does one determine the protein tertiary structure? 
+The question that started it all: Starting from a primary sequence how does one determine the protein tertiary structure? 
+
 There have been mainly two approaches: 
 1. Anfinsen's thermodynamics
 	1. Native structure is *global* free-energy minimum for that sequence under physiological conditions. Based on a physics based forcefield (minimize free energy), as long as you sample the conformational space well enough you should find the native structure of the sequence by finding the lowest energy state. This is the idea behind ab initio modeling. 
@@ -45,7 +49,27 @@ CASP14 (2020) - AlphaFold2: ~2/3 of 96 targets reach GDT_TS >90, competitive wit
 
 MULTICOM and trROSETTA (Yang group) are interesting - outperform the default AF models in CASP15 and 16. 
 
-How this leads back to ESM? The coevolutionary statistics that DCA/AF2 extract _explicitly_ from a MSA at prediction time get baked _implicitly_ into ESM-2's weights during pretraining across the whole protein dataset. 
+How this leads back to [[ESM-2]]? The coevolutionary statistics that DCA/AF2 extract _explicitly_ from a MSA at prediction time get baked _implicitly_ into ESM-2's weights during pretraining across the whole protein dataset. 
 
-Question: So really is AF2 is a natural extension on what the field was already doing and ESM2 is the next step. (Analogy: if aminoacids are tokenized as words are, instead of looking for similar sentences -MSA/DCA to find the fold, they consume all books -Databases, train on that and find similarities?)
-## Example application 💡
+## Open questions
+
+- [ ] **CP**: So really is AF2 is a natural extension on what the field was already doing and ESM2 is the next step. (Analogy: if aminoacids are tokenized as words are, instead of looking for similar sentences -MSA/DCA to find the fold, they consume all books -Databases, train on that and find similarities?)
+
+
+---
+### Related concepts
+
+```dataview
+LIST
+FROM [[]] AND "2_Concepts"
+```
+
+### Where this concept is discussed
+```dataview
+LIST
+FROM [[]] AND "1_Literature"
+```
+
+
+
+

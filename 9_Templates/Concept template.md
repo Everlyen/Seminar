@@ -1,6 +1,7 @@
 ---
+one_line:
 tags:
-  - 
+  -
 ---
 ## What it is
 
@@ -16,6 +17,9 @@ tags:
 ## Open questions
 
 - [ ] 
+
+---
+
 ### Related concepts
 
 ```dataview
@@ -23,7 +27,7 @@ LIST
 FROM [[]] AND "2_Concepts"
 ```
 
-### Where this concept is discussed
+### Papers where this concept is discussed
 ```dataview
 LIST
 FROM [[]] AND "1_Literature"

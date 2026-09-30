@@ -1,10 +1,6 @@
 ---
 tags:
   - protein_language_models
-related:
-  - "[[log-likelihood|Entropy]]"
-  - "[[perplexity]]"
-link:
 ---
 Training language models requires us to have some solid grip on a few concepts. An important class of these concept relate to the performance of those language models. For classification and regression the performance measures are fairly common, like precision, recall, MAE etc. 
 
@@ -12,7 +8,7 @@ Language models have a certain objective. It tries to predict discrete tokens fr
 
 Now, if we have a method of predicting tokens at two missing locations, say position *i* and *j*, what is the joint probability? 
 
-The joint probability should be the product of conditional probability (assuming the two predictions are independent). A working assumption, atleast from the [[Biological structure and function from learning sequences]] paper is that the conditional probability of the predictions for those missing tokens are independant from each other. That is if a model predicts an amino acid K at position *i* and another amino acid L at position *j*, then the working assumption is that the token probability at positions *i* and *j* are independent. That is the model makes prediction at *i* from the context independently from that of *j*. 
+The joint probability should be the product of conditional probability (assuming the two predictions are independent). A working assumption, atleast from the [[Biological structure and function from learning sequences]] paper is that the conditional probability of the predictions for those missing tokens are independent from each other. That is if a model predicts an amino acid K at position *i* and another amino acid L at position *j*, then the working assumption is that the token probability at positions *i* and *j* are independent. That is the model makes prediction at *i* from the context independently from that of *j*. 
 
 To make this joint prediction tractable, we compute the negative log of the cross entropy loss. This loss directly measures the [[log-likelihood]] of the model given the data. The base of the logarithm is a choice. It can be either base-2 in which case the unit of this loss is in *bits*. It can be base-e (natural log), which makes the units of loss in *nats* or base-10 (for *dits*). Base-2 is a common choice for reporting because it is easier to interpret in the context of Shannon's information theory, while the natural log is easier to compute back-propagation so that is used in training. 
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - bioinformatics
+one_line: database based on Structural Classification of Proteins
 ---
 ## What it is
 Link: https://scop.berkeley.edu/

@@ -1,66 +1,31 @@
 {
   "collapse-filter": false,
-  "search": "path:\"2_Concepts/Protein web as representation of BioAtlas\"  ",
+  "search": "-path:\"2_Concepts/Proposed to remove\"  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag: #protein  ",
+      "query": "path:1_Literature/1_InterPLM OR path:\"1_Literature/2_Quantifying uncertainty of protein representations\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13041750
       }
     },
     {
-      "query": "tag:#class  ",
+      "query": "path:2_Concepts  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 4521728
       }
     },
     {
-      "query": "tag:#location  ",
+      "query": "path:\"1_Literature/3_Other papers\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#pathway  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#architecture  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#function  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#superfamily  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag: #subclass  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 5676242
       }
     }
   ],
@@ -69,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.36288736930121096,
+  "linkDistance": 500,
+  "scale": 0.04778763710962469,
   "close": true
 }
