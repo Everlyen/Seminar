@@ -22,4 +22,4 @@ Where file.folder = "Insights/2_Concepts"
 ### Sync issue
 Minor issue: Is it possible that the json files that are being synced are also those from Insights/4_Protein web/.obsidian? I don't see that folder in obsidian but I do still have the changes for the json files showing up before staging. 
 AB: Yes, we have to git remove this entirely. Checking if that works. 
-CP: I still see the .json files showing up. It's not a huge problem, I just ignore those when staging. 
+CP: I still see the .json files showing up. It's not a huge problem, I just ignore those when staging. This is a test for this. 
