@@ -2,7 +2,6 @@
 aliases:
 tags:
   - ai
-  - llm
 ---
 
 ## What is it? 🤔

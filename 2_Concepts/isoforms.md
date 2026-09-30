@@ -1,7 +1,7 @@
 ---
 aliases:
 tags:
-  - ai
+  - biology
 ---
 
 ## What is it? 🤔

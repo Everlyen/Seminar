@@ -1,3 +1,33 @@
+---
+tags:
+  - bioinformatics
+---
+## What it is
+
+
+## Why it matters in our papers
+
+
+## Where it gets confusing
+*Edge cases, places where the concept is used differently across papers, or things that tripped us up.*
+
+**Initials**: Text 
+
+## Open questions
+
+- [ ] 
+### Related concepts
+
+```dataview
+LIST
+FROM [[]] AND "2_Concepts"
+```
+
+### Where this concept is discussed
+```dataview
+LIST
+FROM [[]] AND "1_Literature"
+```
 from wikipedia: [Bioinformatics - Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
 
 Essentially, in this context it is the use of sequence information available from sequencing projects to infer the relationships between proteins. 

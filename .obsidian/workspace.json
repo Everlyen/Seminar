@@ -11,14 +11,14 @@
             "id": "589bfdc7332e0517",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2_Concepts/binding site.md",
+                "bFile": "2_Concepts/binding site.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: binding site  (Working Tree)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 200
   },
   "right": {
     "id": "eacdea3a5c7f6913",
@@ -161,7 +161,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,35 +198,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c9129b7a6aa0df",
+  "active": "589bfdc7332e0517",
   "lastOpenFiles": [
-    "Getting started.md",
-    "README.md",
-    "2_Concepts/ESM-2.md",
-    "Literature discussion timeline.md",
-    "2_Concepts/principle component analysis (PCA).md",
+    "2_Concepts/critical assessment of structure prediction (CASP).md",
     "Landing page.md",
-    "1_Literature/3_Other papers/A Comprehensive Review of Protein Language Models.md",
-    "2_Concepts/uniform manifold approximation and projection (UMAP).md",
-    "1_Literature/1_InterPLM/InterPLM discovering interpretable features using Sparse AutoEncoders.md",
-    "1_Literature/2_Quantifying uncertainty of protein representations/Quantifying Uncertainty of protein representations.md",
-    "Why pLMs are important to understand.md",
-    "2_Concepts/bioinformatics.md",
-    "Untitled.base",
-    "2_Concepts/t-SNE.md",
-    "2_Concepts/CATH.md",
-    "2_Concepts/transformers.md",
-    "2_Concepts/categorical Jacobian.md",
-    "2_Concepts/CASP.md",
-    "2_Concepts/alternative splicing.md",
-    "1_Literature/3_Other papers/Language Modeling Materializes a World Model of Protein Biology/Language Modeling Materializes a World Model of Protein Biology.md",
-    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Protein language models learn evolutionary statistics of interacting sequence motifs.md",
-    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Biological structure and function from learning sequences.md",
-    "2_Concepts/protein families.md",
+    "2_Concepts/Structural Classification of Proteins — extended (SCOPe).md",
+    "2_Concepts/t-distributed stochastic neighbor embedding (t-SNE).md",
+    "2_Concepts/ergodic process.md",
     "2_Concepts/log-likelihood.md",
-    "9_Templates/Concept template.md",
-    "9_Templates/Literature template.md",
+    "2_Concepts/pLDDT.md",
+    "Why pLMs are important to understand.md",
+    "2_Concepts/ESM-2.md",
+    "2_Concepts/superposition.md",
+    "2_Concepts/principle component analysis (PCA).md",
+    "2_Concepts/binding site.md",
+    "2_Concepts/bioinformatics.md",
+    "2_Concepts/intrinsic disorder.md",
+    "2_Concepts/embeddings.md",
     "2_Concepts/structural motifs.md",
+    "2_Concepts/random neighbor score (RNS).md",
+    "2_Concepts/sequence recovery.md",
+    "2_Concepts/distributional hypothesis.md",
+    "2_Concepts/isoforms.md",
+    "2_Concepts/orthologs.md",
+    "2_Concepts/sparse auto encoders.md",
+    "README.md",
+    "Getting started.md",
+    "Literature discussion timeline.md",
+    "1_Literature/3_Other papers/A Comprehensive Review of Protein Language Models.md",
+    "Untitled.base",
     "2_Concepts/Untitled",
     "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606105632.png",
     "1_Literature/3_Other papers/Biological structure and function from learning sequences/Fig.1.png",

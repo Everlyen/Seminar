@@ -1,9 +1,6 @@
 ---
-aliases:
 tags:
-  - ai
   - protein_language_models
-  - esm
 ---
 
 ## What is it? 🤔

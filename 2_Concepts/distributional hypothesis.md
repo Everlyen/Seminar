@@ -1,8 +1,6 @@
 ---
 aliases:
 tags:
-  - ai
-  - llm
   - protein_language_models
 ---
 ## What is it ? 🤔

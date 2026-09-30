@@ -1,8 +1,7 @@
 ---
 aliases:
 tags:
-  - ai
-  - protein_design
+  - metric
 ---
 
 ## What is it? 🤔

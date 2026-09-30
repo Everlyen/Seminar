@@ -1,10 +1,6 @@
 ---
-aliases:
 tags:
   - protein_language_models
-related:
-  - "[[principle component analysis (PCA)]]"
-  - "[[uniform manifold approximation and projection (UMAP)]]"
 ---
 ## What is it? 🤔
 It is a dimensional reduction technique which maps a high-dimensional vector into smaller dimensional for interpretation. It preserves local-structures so that neighborhood information is maintained at the cost of global distance. Distances are not very meaningful in this case. 

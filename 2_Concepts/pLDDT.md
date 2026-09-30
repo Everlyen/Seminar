@@ -1,6 +1,6 @@
 ---
 tags:
-  - ai
+  - metric
 ---
 
 ## What is it? 🤔

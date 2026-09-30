@@ -12,7 +12,7 @@ architecture_params:
 Paper might be interesting later, but currently it's not of interest because of the category Rosetta falls into. This is a conformational search within proximity to the native structure. In the available [[protein folding energy landscape]] it is within an energetic well. I am looking more for an understanding of a method of protein structure prediction from sequence information and Anfinsen principles to sample the larger conformational landscape. 
 
 ## Concepts
-[[CASP]] - Rosetta participated in the refinement category in 2020. Category of interest: TS analysis (regular targets).
+[[critical assessment of structure prediction (CASP)]] - Rosetta participated in the refinement category in 2020. Category of interest: TS analysis (regular targets).
 Highest ranking in CASP13 (TS analysis): 
 1. A7D (Alphafold1)
 2. and 4. and 5. Zhang and QUARK and Zhang-SERVER (Yang Zhang lab)
