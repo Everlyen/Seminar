@@ -9,11 +9,7 @@ The only thing we ask: when you add something, put your name next to it.
 
 1. Find the page for the paper or concept you want to add to
 2. Scroll to the relevant section
-<<<<<<< HEAD
-3. Add your thought, question, or reaction
-=======
 3. Write yours thought, question, or reaction along with your name/initials if you prefer. 
->>>>>>> origin/main
 4. Save
 
 That's it.
