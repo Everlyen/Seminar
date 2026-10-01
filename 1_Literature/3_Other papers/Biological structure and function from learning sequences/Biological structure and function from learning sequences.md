@@ -40,7 +40,7 @@ What to watch out for:
 - Trained on UniParc database
 - Modelling performance measured as a function of sample diversity
 - [[perplexity]] used as a metric to evaluate different models
-- Different models tested included the [[transformers]], [[LSTM]] 
+- Different models tested included the [[Transformers]], [[LSTM]] 
 ### Key results
 #### Evaluating structural representations 
 - Dimensionality reduction achieved through [[t-SNE]] mostly

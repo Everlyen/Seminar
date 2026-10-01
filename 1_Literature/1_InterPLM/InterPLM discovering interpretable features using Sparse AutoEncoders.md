@@ -15,18 +15,15 @@ database_used:
 ## What we thought was most interesting
 
 ```interesting
-Person 1 : This paper explores a new idea
-
-Person 2 : This paper discovered something new!
+AB: Embeddings from a protein language model provide a rich source of biologically meaningful information, but it is often hard to interpret through concepts. It is known that such embeddings represent concepts in superposition, which allows a language model to squeeze large number of near-independant features into a finite embedding dimension. This paper uses a method called Sparse Auto Encoders to identify these features. Further, they intepret these features through biologically relevant concepts by aligning the features to human-curated database such as Swiss-Prot, which contains residue-level concepts. 
 
 ```
 
 
 ## Questions we have/had
-- [ ] AB: How does SAE actually work? Is there any risk of "seeing what you want to see?" involved here because you are using nonlinear functions on high dimensional data to project it down to small number of interpretable contents. 
-- [ ] AB: How generalized is this exactly? What sort of limitations exist for this model? 
-- [ ] AB: Can we just apply this model to any protein, for instance GBP to find relevant features? 
-- [ ] AB: What are the features that it can detect? Are there "amphipathic helices" in there? 
+- [ ] AB: How generalizable are the concepts mapped on to the feature space? Do we know any particular test case for such a method to validate? 
+- [ ] AB: How useful is the automated annotation method? Unclear if there is any validation done on that. 
+- [ ] 
 
 ---
 

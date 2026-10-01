@@ -16,19 +16,13 @@ database_used:
 ## What we thought was most interesting
 
 ```interesting
-AB : This paper explores a new way to measuring the uncertainty of an embedding from a protein language model. 
-
-Person 2 : This paper discovered something new!
+AB : This paper presents probably the only method to measure the quality of an embedding from a protein language model. They find that not all embedding representations of protein are biologically meaningful and hence affects downstream tasks such as structure predictions. 
 
 ```
 
 ## Questions we have 
 
-- [ ] Person 1 : This is my first question
-	- [ ] Person 2 : This is the answer
-
-- [ ] Person 3: This is another question
-	- [ ] 
+- [ ] AB
 
 ---
 
@@ -36,25 +30,22 @@ Person 2 : This paper discovered something new!
 
 ### What it's about
 	 What are the questions that the authors sought to answer? 
-		 Question 1? 
+		- Is there a 'junkyard' of embedding space where low quality embeddings generally reside?  
+		- Does embedding uncertainty affect downstream performance? 
+		- 
 
-	 What was known in the field before this paper? 
+	 What was known in the field before this paper?
+		 - Some developments in natural language models studied embedding quality, but unclear how it was done.  
 
 ### Methods
-	 Method 1: 
-		 Describe the method in detail (possibly with figures)
+#### RNS metric
+The quality of an embedding vector (for a protein) is measured by which fraction of its neighbor correspond to a randomly shuffled protein structure. The core test of reliability of an embedding vector to predict downstream performance is to compare it to another embedding vector from a biologically implausible sequence. This is obtained by randomly shuffling amino acid sequences from a well curated [[Astral-40]] dataset. Each sequence in this dataset is shuffled four times to create an Astral-40R dataset from which embeddings are calculated using different PLMs. The metric is applicable to any protein language model which represents a single structure by a vector embedding. 
 
-	 Method 2:
-		 Describe the method in detail (possibly with figures)
+
 ### Key results
-	 Claim 1: 
-		 - Describe the evidence in detail
-		 - What method was used to obtain this result? 
-		 - Show a figure/table/data if possible from the paper
+##### Presence of a junkyard of protein embeddings
+##### Embedding uncertainty predicts poor downstream performance: 
 
-	 Claim 2:
-		 - Describe the evidence in detail
-		 - What method was used to obtain this result? 
-		 - Show a figure/table/data if possible from the paper
+#### 
 
 
