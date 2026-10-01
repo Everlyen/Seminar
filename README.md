@@ -27,7 +27,7 @@ Brief introduction to the history of relationship between protein sequence and f
 How is information [[embeddings|embedded]] in a pLM (vectors) and how current work in the field is directed towards interpretation of the multidimensional spaces through [[SAE]] which allow extraction of meaningful relationships and information. Or is it just seeing what we want to see? What would information like this be useful for? 
 
 ### **Part 2**  
-**Individual reading and exploration of concepts and ideas (weeks 1-3?) **  
+**Individual reading and exploration of concepts and ideas (weeks 1-3?)**  
 In order to evaluate the (encoded information?), there needs to be a understanding of the measures that allow for interpretability of that information. For this we've selected two papers: 
 [[InterPLM discovering interpretable features using Sparse AutoEncoders]]
 [[Quantifying Uncertainty of protein representations]]

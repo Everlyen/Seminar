@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b85bfd40481c7b8",
+        "id": "9832a31b8e2eab44",
         "type": "tabs",
         "children": [
           {
-            "id": "9713048031ec8dba",
+            "id": "cecb59c179dd0400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes for Alok.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes for Alok"
+              "title": "README"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:structural_biology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 300
   },
   "right": {
     "id": "eacdea3a5c7f6913",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes for Alok.md",
+                "file": "Landing page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,53 +199,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9713048031ec8dba",
+  "active": "cecb59c179dd0400",
   "lastOpenFiles": [
-    "1_Literature/3_Other papers/1_Associated literature.md",
-    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Protein language models learn evolutionary statistics of interacting sequence motifs.md",
-    "Getting started.md",
-    "README.md",
-    "Interpreting performance of language models.md",
-    "Landing page.md",
     "Notes for Alok.md",
-    "2_Concepts/embeddings.md",
-    "2_Concepts/dictionary learning.md",
-    "2_Concepts/distributional hypothesis.md",
-    "2_Concepts/Proposed to remove/CHESS.md",
-    "2_Concepts/de novo genes.md",
-    "2_Concepts/categorical jacobian.md",
-    "2_Concepts/CASP.md",
-    "2_Concepts/bioinformatics.md",
-    "2_Concepts/binding site.md",
-    "9_Templates/Concept template.md",
+    "Landing page.md",
+    "Interpreting performance of language models.md",
+    "Getting started.md",
     "9_Templates/Literature template.md",
-    "1_Literature/3_Other papers/High-accuracy refinement using Rosetta in CASP13.md",
-    "2_Concepts/protein folding energy landscape.md",
-    "2_Concepts/SAE.md",
-    "2_Concepts/UMAP.md",
-    "2_Concepts/ESM-2.md",
-    "2_Concepts/t-SNE.md",
-    "1_Literature/3_Other papers/A Comprehensive Review of Protein Language Models.md",
-    "2_Concepts/RNS.md",
-    "2_Concepts/Proposed to remove",
-    "Untitled.base",
-    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606105632.png",
-    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Fig.1.png",
-    "2_Concepts/Old concepts",
+    "9_Templates/Concept template.md",
     "9_Templates",
-    "Pasted image 20260930203456.png",
-    "Pasted image 20260930203409.png",
+    "2_Concepts/Proposed to remove/sequence recovery.md",
+    "2_Concepts/Proposed to remove/orthologs.md",
+    "2_Concepts/Proposed to remove/intrinsic disorder.md",
+    "2_Concepts/Proposed to remove/ergodic process.md",
+    "2_Concepts/Proposed to remove/CATH.md",
+    "2_Concepts/Proposed to remove/CHESS.md",
+    "2_Concepts/Proposed to remove/alternative splicing.md",
+    "2_Concepts/UMAP.md",
+    "2_Concepts/transformers.md",
+    "2_Concepts/t-SNE.md",
+    "2_Concepts/superposition.md",
+    "2_Concepts/structural motifs.md",
+    "2_Concepts/SCOPe.md",
+    "2_Concepts/SAE.md",
+    "2_Concepts/RNS.md",
+    "2_Concepts/protein folding energy landscape.md",
+    "2_Concepts/protein families.md",
+    "2_Concepts/Proposed to remove",
+    "2_Concepts/pLDDT.md",
+    "2_Concepts/perplexity.md",
+    "2_Concepts/PCA.md",
+    "2_Concepts",
+    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Pasted image 20260804174411.png",
+    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Pasted image 20260804174115.png",
+    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Pasted image 20260804174026.png",
+    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Pasted image 20260804173712.png",
+    "1_Literature/3_Other papers/pLM learn evolutionary statistics/Pasted image 20260804143350.png",
+    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Table 2.png",
+    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606165029.png",
+    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606164752.png",
+    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606164641.png",
+    "1_Literature/3_Other papers/Biological structure and function from learning sequences/Pasted image 20260606105632.png",
+    "1_Literature/3_Other papers/The past, present and future of de novo protein design",
+    "1_Literature/3_Other papers/pLM learn evolutionary statistics",
+    "1_Literature/3_Other papers/Language Modeling Materializes a World Model of Protein Biology",
+    "1_Literature/3_Other papers/Biological structure and function from learning sequences",
     "1_Literature/3_Other papers",
-    "Insights/3_Synthesis/chapter_2_high_dimensional_spaces/chapter_2_foundations_of_data_science.pdf",
-    "2_Concepts/1_Proteins/Pasted image 20260930180500.png",
-    "Insights/2_Concepts/bioinformatics",
-    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104530.png",
-    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104505.png",
-    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104440.png",
-    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104426.png",
-    "Insights/1_Literature/ProteinMPNN/Pasted image 20260611104410.png",
-    "Insights/3_Synthesis/chapter_2_high_dimensional_spaces",
-    "2_Concepts/1_Proteins",
-    "1_Literature/2_Quantifying uncertainty of protein representations"
+    "1_Literature/2_Quantifying uncertainty of protein representations",
+    "1_Literature/1_InterPLM"
   ]
 }
