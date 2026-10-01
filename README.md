@@ -1,7 +1,6 @@
 This is our shared space for notes, questions, and discussion around the papers we're reading.
 
 **You don't need to know how any of this works to contribute.**   
-The only thing we ask: when you add something, put your name next to it.
 
 ---
 
