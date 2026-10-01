@@ -7,13 +7,21 @@ authors:
 year: 2025
 tags:
   - protein_language_models
+architecture:
+dataset_size:
+training_size:
+database_used:
 ---
 ## What we thought was most interesting
 
-**Initials**:
-## What confused us
+```interesting
+Person 1 : This paper explores a new idea
 
-**Initials**: 
+Person 2 : This paper discovered something new!
+
+```
+
+
 ## Questions we have/had
 - [ ] AB: How does SAE actually work? Is there any risk of "seeing what you want to see?" involved here because you are using nonlinear functions on high dimensional data to project it down to small number of interpretable contents. 
 - [ ] AB: How generalized is this exactly? What sort of limitations exist for this model? 

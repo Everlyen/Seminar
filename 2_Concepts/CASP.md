@@ -49,7 +49,7 @@ CASP14 (2020) - AlphaFold2: ~2/3 of 96 targets reach GDT_TS >90, competitive wit
 
 MULTICOM and trROSETTA (Yang group) are interesting - outperform the default AF models in CASP15 and 16. 
 
-How this leads back to [[ESM-2]]? The coevolutionary statistics that DCA/AF2 extract _explicitly_ from a MSA at prediction time get baked _implicitly_ into ESM-2's weights during pretraining across the whole protein dataset. 
+How this leads back to [[Protein language models]]? The coevolutionary statistics that DCA/AF2 extract _explicitly_ from a MSA at prediction time get baked _implicitly_ into ESM-2's weights during pretraining across the whole protein dataset. 
 
 ## Open questions
 
