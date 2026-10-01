@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "9_Templates/Literature template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Literature template"
             }
           }
         ]
@@ -202,6 +202,7 @@
   "active": "cecb59c179dd0400",
   "lastOpenFiles": [
     "Notes for Alok.md",
+    "README.md",
     "Landing page.md",
     "Interpreting performance of language models.md",
     "Getting started.md",
@@ -228,7 +229,6 @@
     "2_Concepts/Proposed to remove",
     "2_Concepts/pLDDT.md",
     "2_Concepts/perplexity.md",
-    "2_Concepts/PCA.md",
     "2_Concepts",
     "1_Literature/3_Other papers/pLM learn evolutionary statistics/Pasted image 20260804174411.png",
     "1_Literature/3_Other papers/pLM learn evolutionary statistics/Pasted image 20260804174115.png",
