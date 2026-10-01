@@ -7,7 +7,6 @@ tags:
 ---
 ## What we thought was most interesting
 
-**Initials**:
 [[distributional hypothesis]]
 [[perplexity]]
 [[homology]]: Shared ancestry
@@ -54,7 +53,7 @@ What to watch out for:
  - They get protein domains from the [[SCOPe]] directory which classifies protein domains as
 ```mermaid
 graph LR
-  A[Fold] --> B[Superfamily] --> C[Family] --> D[Protein domains]
+  A[Class] --> B[Fold] --> C[Superfamily] --> D[Family] --> E[Protein domains]
 ```
 - Take each domain from the [[SCOPe]] directory, and obtain the output [[embeddings]]. 
 - For each point in the embedding space, search how many true entries are present near it. If the model has learnt true representation of Fold and Superfamily, then those domains which share the same fold or superfamily gets clustered together

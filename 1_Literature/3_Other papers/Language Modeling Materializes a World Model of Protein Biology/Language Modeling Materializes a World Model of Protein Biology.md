@@ -9,7 +9,7 @@ link:
 ESM-Cambrian is the latest iteration of the ESM series of protein language models. The paper claims foundational breakthrough in the ability to characterization of protein biology. Their method is to apply language modelling to unify representations across protein biology. This representation is useful to perform diverse structure tasks like structure predictions and interactions. In addition they also study the conceptual space of the language model to reveal a structured representation of concepts. The organisation of these concepts was used to explore the connections across known and unknown protein biology, and they present an atlas of billions of proteins across evolutionary timescales. 
 
 ## Concepts
-[[Enzyme Classification (EC) numbers]]
+[[ExplorEnz - The Enzyme database|Enzyme Classification (EC) numbers]]
 
 ## Methods
 
