@@ -3,7 +3,11 @@ link:
 authors:
 year:
 tags:
-  -
+  - 
+architecture:
+num_params:
+dataset_size:
+database_used:
 ---
 ## What we thought was most interesting
 
