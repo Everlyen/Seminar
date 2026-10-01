@@ -1,3 +1,12 @@
 .obsidian
 .obsidian/*
 .obsidian/workspace.json
+*.pdf
+*.png
+*.eps
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.ai
+
